@@ -4,4 +4,6 @@
   <p>git clone 到本地,cd进入项目目录</p>
   ```
   npm run start
+
+  ```
 </p>
