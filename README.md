@@ -2,5 +2,5 @@
 <p>
   <h4>使用方法:</h4>
   <p>git clone 到本地,cd进入项目目录</p>
-  `npm run start`
+  `<npm run start>`
 </p>
